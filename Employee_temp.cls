@@ -5,4 +5,8 @@ public class Employee_temp{
     public Employee_temp(){
        System.debug('Constructor execution startd...');
     }
+
+    public void show(){
+    	System.debug('Hey! finally executed show() method.');
+    }
 }
